@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>445324070896-b4gn6h3f98m51e9e83ojb005cphp2v48.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.445324070896-b4gn6h3f98m51e9e83ojb005cphp2v48</string>
+	<key>API_KEY</key>
+	<string>AIzaSyArWOdPZzjJZV8XHdJqMdFDZa-tH-XLoJc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>445324070896</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.oraxtech.mynotes</string>
+	<key>PROJECT_ID</key>
+	<string>oraxtech-mynotes</string>
+	<key>STORAGE_BUCKET</key>
+	<string>oraxtech-mynotes.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:445324070896:ios:818b653253ab1178a09735</string>
+</dict>
+</plist>
